@@ -66,7 +66,6 @@ I am a versatile and results-driven **Software Engineer** with over 3 years of e
 
 ## 📊 GitHub Stats
 
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijith-Reji&show_icons=true&theme=tokyonight)
 ![Abhijith's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhijith-Reji&theme=tokyonight)
 
 ---
